@@ -1,7 +1,7 @@
 class PilhaEstatica : Empilhavel {
-    // variáveis globais (de instância)
-    var ponteiroTopo: Int //var pois é mutável
-    private var dados: Array<Any?> // o Any como se fosse objetos, a interrogação permite os nulos
+    // variáveis globais de instância
+    var ponteiroTopo: Int // utiliza-se var pois é mutável
+    private var dados: Array<Any?> // o Any é como se fosse objetos, a interrogação permite os nulos
     //construtores são publicos para conseguir criar objetos, quando é privado usa-se em banco de dados Singletan
     constructor () : this(10)
     
