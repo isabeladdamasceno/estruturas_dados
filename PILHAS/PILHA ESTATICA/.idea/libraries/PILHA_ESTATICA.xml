@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="PILHA ESTATICA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Empilhavel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Main.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
