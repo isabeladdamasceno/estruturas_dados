@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="LISTA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Main.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Listavel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
